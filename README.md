@@ -5,4 +5,4 @@ This project uses Edge Impulse’s FOMO (Faster Objects, More Objects) object de
 
 The Edge Impulse model is also implemented into our Python code so that it can count the object cumulatively. The algorithm compares the coordinates of the current frame to the previous frames; to see if there is a new object on camera or if the object has been previously counted. In our testing sometimes there’s still inaccuracy in the number of objects counted as this model is still in the Proof of Concept stage. We are confident that this concept can be developed further for the real world application.
 
-[Link to project](https://studio.edgeimpulse.com/public/120523/latest/)
+[Link to project](https://studio.edgeimpulse.com/studio/120523/)
